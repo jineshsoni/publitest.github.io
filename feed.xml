@@ -1,33 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>MyFirstSite</title>
-    <link href="https://jineshsoni.github.io/publitest.github.io/feed.xml" rel="self" />
-    <link href="https://jineshsoni.github.io/publitest.github.io" />
-    <updated>2019-04-17T16:38:31+05:30</updated>
+    <title>TestSite</title>
+    <link href="https://github.com/jineshsoni/publitest.github.io/feed.xml" rel="self" />
+    <link href="https://github.com/jineshsoni/publitest.github.io" />
+    <updated>2019-04-17T16:49:28+05:30</updated>
     <author>
         <name>Jinesh Soni</name>
     </author>
-    <id>https://jineshsoni.github.io/publitest.github.io</id>
+    <id>https://github.com/jineshsoni/publitest.github.io</id>
 
     <entry>
-        <title>Test title</title>
+        <title>Title</title>
         <author>
             <name>Jinesh Soni</name>
         </author>
-        <link href="https://jineshsoni.github.io/publitest.github.io/test-title.html"/>
-        <id>https://jineshsoni.github.io/publitest.github.io/test-title.html</id>
+        <link href="https://github.com/jineshsoni/publitest.github.io/title.html"/>
+        <id>https://github.com/jineshsoni/publitest.github.io/title.html</id>
 
-        <updated>2019-04-17T16:19:44+05:30</updated>
+        <updated>2019-04-17T16:42:18+05:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jineshsoni.github.io/publitest.github.io/media/posts/1/github-logo-icon-16174.png" alt="" />
-                    Ok this is the best thing happening
+                    post
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://jineshsoni.github.io/publitest.github.io/media/posts/1/github-logo-icon-16174.png" alt="" />
-                Ok this is the best thing happening
+                post
             ]]>
         </content>
     </entry>
