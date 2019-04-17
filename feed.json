@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "TestSite",
     "description": "",
-    "home_page_url": "https://github.com/jineshsoni/publitest.github.io",
-    "feed_url": "https://github.com/jineshsoni/publitest.github.io/feed.json",
+    "home_page_url": "https://jineshsoni.github.io/publitest.github.io",
+    "feed_url": "https://jineshsoni.github.io/publitest.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "Jinesh Soni"
     },
     "items": [
         {
-            "id": "https://github.com/jineshsoni/publitest.github.io/title.html",
-            "url": "https://github.com/jineshsoni/publitest.github.io/title.html",
+            "id": "https://jineshsoni.github.io/publitest.github.io/title.html",
+            "url": "https://jineshsoni.github.io/publitest.github.io/title.html",
             "title": "Title",
             "summary": "post",
             "content_html": "post",
